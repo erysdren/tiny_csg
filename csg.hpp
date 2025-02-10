@@ -9,6 +9,7 @@
 #include <functional>
 #include <any>
 
+#define GLM_ENABLE_EXPERIMENTAL
 #include <glm/glm.hpp>
 
 namespace csg {
